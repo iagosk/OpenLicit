@@ -19,9 +19,6 @@ namespace OpenLicit
         public OpenLicit()
         {
             InitializeComponent();
-            this.IsMdiContainer = true;
-            this.BackgroundImage = Image.FromFile("C:/Users/Matheus/Downloads/OpenLicit.png");
-            this.BackgroundImageLayout = ImageLayout.Stretch;
         }
 
         private void cadastrarLicitacaoToolStripMenuItem_Click_1(object sender, EventArgs e)
@@ -129,6 +126,11 @@ namespace OpenLicit
             guia.AppendLine("  - Em caso de erro ao ler o arquivo JSON, verifique permissões e integridade do arquivo 'licitacoes.json'.");
             // Exibir o texto de ajuda para o usuário
             MessageBox.Show(guia.ToString(), "Ajuda — Listagem de Licitações", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void OpenLicit_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

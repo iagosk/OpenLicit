@@ -68,21 +68,21 @@ namespace OpenLicit
             // cadastrarLicitacaoToolStripMenuItem
             // 
             this.cadastrarLicitacaoToolStripMenuItem.Name = "cadastrarLicitacaoToolStripMenuItem";
-            this.cadastrarLicitacaoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.cadastrarLicitacaoToolStripMenuItem.Size = new System.Drawing.Size(218, 26);
             this.cadastrarLicitacaoToolStripMenuItem.Text = "Cadastrar Licitação";
             this.cadastrarLicitacaoToolStripMenuItem.Click += new System.EventHandler(this.cadastrarLicitacaoToolStripMenuItem_Click_1);
             // 
             // listarLicitacoesToolStripMenuItem
             // 
             this.listarLicitacoesToolStripMenuItem.Name = "listarLicitacoesToolStripMenuItem";
-            this.listarLicitacoesToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.listarLicitacoesToolStripMenuItem.Size = new System.Drawing.Size(218, 26);
             this.listarLicitacoesToolStripMenuItem.Text = "Listar Licitações";
             this.listarLicitacoesToolStripMenuItem.Click += new System.EventHandler(this.listarLicitacoesToolStripMenuItem_Click_1);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(218, 26);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click_1);
             // 
@@ -113,7 +113,8 @@ namespace OpenLicit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.BackgroundImage = global::OpenLicit.Properties.Resources.OpenLicit;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(897, 682);
             this.Controls.Add(this.menuStrip1);
             this.DoubleBuffered = true;
@@ -123,6 +124,7 @@ namespace OpenLicit
             this.Name = "OpenLicit";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "OpenLicit - Sistema de Licitações.";
+            this.Load += new System.EventHandler(this.OpenLicit_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
