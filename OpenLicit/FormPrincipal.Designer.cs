@@ -63,27 +63,27 @@ namespace OpenLicit
             this.sairToolStripMenuItem});
             this.arquivoToolStripMenuItem.Name = "arquivoToolStripMenuItem";
             this.arquivoToolStripMenuItem.Size = new System.Drawing.Size(75, 24);
-            this.arquivoToolStripMenuItem.Text = "Arquivo";
+            this.arquivoToolStripMenuItem.Text = "&Arquivo";
             // 
             // cadastrarLicitacaoToolStripMenuItem
             // 
             this.cadastrarLicitacaoToolStripMenuItem.Name = "cadastrarLicitacaoToolStripMenuItem";
-            this.cadastrarLicitacaoToolStripMenuItem.Size = new System.Drawing.Size(218, 26);
-            this.cadastrarLicitacaoToolStripMenuItem.Text = "Cadastrar Licitação";
+            this.cadastrarLicitacaoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.cadastrarLicitacaoToolStripMenuItem.Text = "&Cadastrar Licitação";
             this.cadastrarLicitacaoToolStripMenuItem.Click += new System.EventHandler(this.cadastrarLicitacaoToolStripMenuItem_Click_1);
             // 
             // listarLicitacoesToolStripMenuItem
             // 
             this.listarLicitacoesToolStripMenuItem.Name = "listarLicitacoesToolStripMenuItem";
-            this.listarLicitacoesToolStripMenuItem.Size = new System.Drawing.Size(218, 26);
-            this.listarLicitacoesToolStripMenuItem.Text = "Listar Licitações";
+            this.listarLicitacoesToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.listarLicitacoesToolStripMenuItem.Text = "&Listar Licitações";
             this.listarLicitacoesToolStripMenuItem.Click += new System.EventHandler(this.listarLicitacoesToolStripMenuItem_Click_1);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(218, 26);
-            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.sairToolStripMenuItem.Text = "&Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click_1);
             // 
             // ajudaToolStripMenuItem
@@ -93,20 +93,20 @@ namespace OpenLicit
             this.listagemDeLicitaçãpToolStripMenuItem});
             this.ajudaToolStripMenuItem.Name = "ajudaToolStripMenuItem";
             this.ajudaToolStripMenuItem.Size = new System.Drawing.Size(62, 24);
-            this.ajudaToolStripMenuItem.Text = "Ajuda";
+            this.ajudaToolStripMenuItem.Text = "&Ajuda";
             // 
             // cadastroToolStripMenuItem
             // 
             this.cadastroToolStripMenuItem.Name = "cadastroToolStripMenuItem";
             this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(236, 26);
-            this.cadastroToolStripMenuItem.Text = "Cadastro de Licitação";
+            this.cadastroToolStripMenuItem.Text = "&Cadastro de Licitação";
             this.cadastroToolStripMenuItem.Click += new System.EventHandler(this.cadastroToolStripMenuItem_Click_1);
             // 
             // listagemDeLicitaçãpToolStripMenuItem
             // 
             this.listagemDeLicitaçãpToolStripMenuItem.Name = "listagemDeLicitaçãpToolStripMenuItem";
             this.listagemDeLicitaçãpToolStripMenuItem.Size = new System.Drawing.Size(236, 26);
-            this.listagemDeLicitaçãpToolStripMenuItem.Text = "Listagem de Licitação";
+            this.listagemDeLicitaçãpToolStripMenuItem.Text = "&Listagem de Licitação";
             this.listagemDeLicitaçãpToolStripMenuItem.Click += new System.EventHandler(this.listagemDeLicitaçãpToolStripMenuItem_Click_1);
             // 
             // OpenLicit

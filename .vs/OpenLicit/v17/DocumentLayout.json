@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|C:\\Users\\Matheus\\source\\repos\\OpenLicit\\openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|C:\\Users\\Matheus\\source\\repos\\OpenLicit\\openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|C:\\Users\\Matheus\\source\\repos\\OpenLicit\\openlicit\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|C:\\Users\\Matheus\\source\\repos\\OpenLicit\\openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|C:\\Users\\Matheus\\source\\repos\\OpenLicit\\openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|C:\\Users\\Matheus\\source\\repos\\OpenLicit\\openlicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FormCadastro.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormCadastro.cs",
               "RelativeDocumentMoniker": "OpenLicit\\FormCadastro.cs",
@@ -77,38 +77,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs [Design]",
               "RelativeToolTip": "OpenLicit\\FormPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:41:07.908Z"
+              "WhenOpened": "2026-02-04T01:41:07.908Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ListarLicitacoes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ListarLicitacoes.cs",
               "RelativeDocumentMoniker": "OpenLicit\\ListarLicitacoes.cs",
               "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ListarLicitacoes.cs [Design]",
               "RelativeToolTip": "OpenLicit\\ListarLicitacoes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:16:32.396Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-04T01:16:32.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
+              "RelativeToolTip": "OpenLicit\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:41:09.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormPrincipal.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.Designer.cs",
               "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.Designer.cs",
               "RelativeToolTip": "OpenLicit\\FormPrincipal.Designer.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAIAwwHwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwH0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T02:02:02.257Z"
+              "WhenOpened": "2026-02-04T02:02:02.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,18 +134,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-04T02:06:24.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
-              "RelativeToolTip": "OpenLicit\\FormPrincipal.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIIAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:41:09.489Z"
             },
             {
               "$type": "Document",
