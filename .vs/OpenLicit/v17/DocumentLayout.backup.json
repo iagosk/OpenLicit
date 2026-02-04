@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\bin\\debug\\licitacoes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\bin\\debug\\licitacoes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\listarlicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\errocampovazio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\errocampovazio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\erroformatoinvalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\erroformatoinvalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|c:\\users\\matheus\\source\\repos\\openlicit\\openlicit\\licitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C1D06-78F6-44C4-BBC8-B732E56890C0}|OpenLicit\\OpenLicit.csproj|solutionrelative:openlicit\\licitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormCadastro.cs [Design]*",
+              "RelativeToolTip": "OpenLicit\\FormCadastro.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:39:56.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "OpenLicit\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:41:07.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarLicitacoes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ListarLicitacoes.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\ListarLicitacoes.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ListarLicitacoes.cs [Design]*",
+              "RelativeToolTip": "OpenLicit\\ListarLicitacoes.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:16:32.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "OpenLicit\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAIAwwHwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:02:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "licitacoes.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\bin\\Debug\\licitacoes.json",
+              "RelativeDocumentMoniker": "OpenLicit\\bin\\Debug\\licitacoes.json",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\bin\\Debug\\licitacoes.json",
+              "RelativeToolTip": "OpenLicit\\bin\\Debug\\licitacoes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T02:06:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormPrincipal.cs",
+              "RelativeToolTip": "OpenLicit\\FormPrincipal.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:41:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\Program.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\Program.cs",
+              "RelativeToolTip": "OpenLicit\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:16:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\FormCadastro.cs*",
+              "RelativeToolTip": "OpenLicit\\FormCadastro.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:40:09.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListarLicitacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ListarLicitacoes.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\ListarLicitacoes.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ListarLicitacoes.cs*",
+              "RelativeToolTip": "OpenLicit\\ListarLicitacoes.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:21:22.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErroCampoVazio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ErroCampoVazio.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\ErroCampoVazio.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ErroCampoVazio.cs",
+              "RelativeToolTip": "OpenLicit\\ErroCampoVazio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:02:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErroFormatoInvalido.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ErroFormatoInvalido.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\ErroFormatoInvalido.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\ErroFormatoInvalido.cs",
+              "RelativeToolTip": "OpenLicit\\ErroFormatoInvalido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:03:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Licitacao.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\Licitacao.cs",
+              "RelativeDocumentMoniker": "OpenLicit\\Licitacao.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\OpenLicit\\OpenLicit\\Licitacao.cs",
+              "RelativeToolTip": "OpenLicit\\Licitacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:01:05.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
